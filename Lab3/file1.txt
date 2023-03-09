@@ -1,0 +1,4 @@
+textul
+fisierului
+file1
+txt
